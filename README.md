@@ -94,7 +94,7 @@ You must complete **both** parts for your submission to count:
 ### Part 1 — GitHub (Commit History)
 
 1. Make sure your forked repository is **public** so that the TAs can access it.
-2. You must have **at least 2 meaningful commits** pushed to your fork. Submissions with a single commit or auto-generated messages may receive a penalty.
+2. You must have **at least 2 meaningful commits** pushed to your fork.
 
 ### Part 2 — Google Form (Zip Upload)
 
